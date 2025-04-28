@@ -1,0 +1,40 @@
+h1{
+	background-color: #f85427;
+	font-family: "Playwrite RO", cursive;
+}
+body{
+	color: white;
+	background-color: #ffcba4;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+	background-image: url("pof.jpg");
+	font-family: "Caudex", bold;
+
+}
+.p1{
+	text-align: center;
+}
+.h2{
+	text-align: center;
+}
+.img1{
+	
+	text-align: center;
+}
+.img2{
+	text-align: center;
+}
+img{
+	border: 5px solid #c4aead;
+}
+.h3{
+	text-align: justify;
+}
+.h4{
+	text-align: center;
+}
+.refs{
+	text-align: right;
+	background-color: #c4aead
+}
